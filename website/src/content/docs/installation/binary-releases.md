@@ -18,7 +18,7 @@ See the available binaries for different operating systems/architectures from th
 ```bash
 VERSION="0.1.0"
 TARGET="x86_64-unknown-linux-gnu.tar.gz"
-wget "https://github.com/orhun/binsider/releases/download/v${VERSION}/binsider-${VERSION}-${TARGET}.tar.gz"
+wget "https://github.com/orhun/binsider/releases/download/v${VERSION}/binsider-${VERSION}-${TARGET}"
 ```
 
 2. Extract the files:
